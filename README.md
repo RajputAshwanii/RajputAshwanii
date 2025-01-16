@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajputashwanii&show_icons=true&locale=en&layout=compact" alt="rajputashwanii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputashwanii&" alt="rajputashwanii" /></p>
